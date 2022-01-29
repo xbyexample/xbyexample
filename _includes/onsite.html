@@ -11,10 +11,6 @@
   }
   
   var _learnq = _learnq || [];  
-  _learnq.push(['track', 'Viewed Page',
-    {
-      identity: identity,
-      url: window.location.href
-    }
-  ]);
+  _learnq.push(["identify", { $email: identity }])
+  _learnq.push(['track', 'Viewed Page', { url: window.location.href }]);
 </script>
