@@ -5,4 +5,4 @@ Similar to [learnxinyminutes.com](https://learnxinyminutes.com), [xbyexample.com
 - [Learn Go By Example](https://gobyexample.com)
 
 ## Tool X by Example
-- [Learn Systemd by Example](systemd-by-example.com)
+- [Learn Systemd by Example](https://systemd-by-example.com)
