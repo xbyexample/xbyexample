@@ -3,6 +3,7 @@ Similar to [learnxinyminutes.com](https://learnxinyminutes.com), X By Example is
 
 ### Programming language X by Example
 - [Go by Example](https://gobyexample.com)
+- [JavaScript by Example](https://javascriptbyexample.com)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 - [SwiftUI by Example](https://www.hackingwithswift.com/quick-start/swiftui)
 
