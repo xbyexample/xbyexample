@@ -12,3 +12,5 @@ Similar to [learnxinyminutes.com](https://learnxinyminutes.com), X By Example is
 ### Tool X by Example
 - [Kubernetes by Example](https://kubebyexample.com)
 - [Systemd by Example](https://systemd-by-example.com)
+
+{% include onsite.html %}
