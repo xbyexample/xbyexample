@@ -4,17 +4,19 @@
   const urlParams = new URLSearchParams(queryString);
   
   var identity = "unknown@xbyexample.com" 
-  var _learnq = _learnq || [];  
-    if (urlParams.has('email')) {
+  var _learnq = _learnq || [];
+  
+  if (urlParams.has('email')) {
     identity = urlParams.get('email')
     _learnq.push(["identify", { $email: identity }])
-    _learnq.push(['track', 'Viewed Page', { url: window.location.href }]);
   } else if (urlParams.has('ref')) {
     identity = "user@" + urlParams.get('ref')
     _learnq.push(["identify", { $email: identity }])
-    _learnq.push(['track', 'Viewed Page', { url: window.location.href }]);
   } else {
     _learnq.push(["identify", { $email: identity }])
-    _learnq.push(['track', 'Viewed Page', { url: window.location.href }]); 
   }
+  _learnq.push(['track', 'Viewed Page', { 
+    url: window.location.href,
+    referrer: document.referrer
+  }]); 
 </script>
