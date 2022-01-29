@@ -7,6 +7,7 @@ Similar to [learnxinyminutes.com](https://learnxinyminutes.com), X By Example is
 - [Haskell by Example](https://lotz84.github.io/haskellbyexample/)
 - [JavaScript by Example](https://javascriptbyexample.com)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
+- [Swift by Example](https://brettbukowski.github.io/SwiftExamples/)
 - [SwiftUI by Example](https://www.hackingwithswift.com/quick-start/swiftui)
 
 ### Tools
