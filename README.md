@@ -13,8 +13,4 @@ Similar to [learnxinyminutes.com](https://learnxinyminutes.com), X By Example is
 - [Kubernetes by Example](https://kubebyexample.com)
 - [Systemd by Example](https://systemd-by-example.com)
 
-<script async src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=Tevbjm"></script>
-<script type="text/javascript">
-  var _learnq = _learnq || [];
-  _learnq.push(['track', 'X by Example Visit']);
-</script> 
+<script async src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=UjMpsi"></script>
