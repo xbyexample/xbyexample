@@ -4,6 +4,7 @@ Similar to [learnxinyminutes.com](https://learnxinyminutes.com), X By Example is
 ### Programming languages
 - [Dart by Example](https://www.jpryan.me/dartbyexample/)
 - [Go by Example](https://gobyexample.com)
+- [Go Web by Example](https://gowebexamples.com)
 - [Haskell by Example](https://lotz84.github.io/haskellbyexample/)
 - [JavaScript by Example](https://javascriptbyexample.com)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
